@@ -9,7 +9,6 @@ export default () => {
       <Header />
       <h1>App</h1>
       <hr />
-      <hr />
       <MarketingApp />
     </BrowserRouter>
   );
